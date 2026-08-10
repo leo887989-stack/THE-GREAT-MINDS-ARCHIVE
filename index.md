@@ -23,4 +23,4 @@ This is an independent research project dedicated to studying philosophers, scie
 
 ## Latest Research
 
-Research articles will appear here.
+Research articles will appear here on 10th Sept 2026
