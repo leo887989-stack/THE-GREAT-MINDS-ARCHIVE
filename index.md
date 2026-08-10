@@ -1,11 +1,15 @@
 ---
 layout: home
-title: Home
+title: The Great Minds Archive
 ---
 
-# The Great Minds Archive
+<div align="center">
 
-> *Exploring the minds that changed humanity.*
+<img src="{{ '/assets/images/logo.png' | relative_url }}" alt="The Great Minds Archive Logo" width="300">
+
+### Exploring the minds that changed humanity.
+
+</div>
 
 Welcome to **The Great Minds Archive**.
 
@@ -13,11 +17,12 @@ This is an independent research project dedicated to studying philosophers, scie
 
 ## Featured Thinkers
 
-- Niccolo Machiavelli
+- Niccolo Machaivelli
 - Marcus Aurelius
 - Plato
 - Aristotle
+- Alexander the Great
 
 ## Latest Research
 
-Research articles will appear on 10th Sept 2026
+Research articles will appear here.
