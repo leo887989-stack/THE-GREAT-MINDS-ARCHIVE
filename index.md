@@ -13,12 +13,11 @@ This is an independent research project dedicated to studying philosophers, scie
 
 ## Featured Thinkers
 
-- Nikola Tesla
+- Niccolo Machiavelli
 - Marcus Aurelius
 - Plato
 - Aristotle
-- Albert Einstein
 
 ## Latest Research
 
-Research articles will appear here.
+Research articles will appear on 10th Sept 2026
