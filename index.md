@@ -1,11 +1,9 @@
----
-layout: home
-title: The Great Minds Archive
----
+<div style="text-align: center;">
 
-<div align="center">
-
-<img src="{{ '/assets/images/logo.png' | relative_url }}" alt="The Great Minds Archive Logo" width="300">
+<img src="{{ '/assets/images/logo.png' | relative_url }}"
+     alt="The Great Minds Archive Logo"
+     width="300"
+     style="display: block; margin: 0 auto;">
 
 ### Exploring the minds that changed humanity.
 
