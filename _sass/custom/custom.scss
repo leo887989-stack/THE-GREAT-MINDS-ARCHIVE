@@ -1,1 +1,91 @@
+/* =========================================
+   THE GREAT MINDS ARCHIVE
+   Dark Academic + Gold Theme
+   ========================================= */
 
+:root {
+  --gold: #c9a227;
+  --gold-light: #e0c45c;
+  --dark: #111111;
+  --dark-soft: #181818;
+  --text: #e6e6e6;
+  --muted: #a8a8a8;
+}
+
+/* Main background */
+body {
+  background: var(--dark);
+  color: var(--text);
+}
+
+/* Main content */
+.main {
+  background: var(--dark);
+}
+
+/* Headings */
+h1, h2, h3, h4 {
+  color: var(--gold-light);
+  font-family: Georgia, "Times New Roman", serif;
+}
+
+/* Main title */
+h1 {
+  letter-spacing: 1px;
+}
+
+/* Links */
+a {
+  color: var(--gold-light);
+}
+
+a:hover {
+  color: var(--gold);
+}
+
+/* Sidebar */
+.side-bar {
+  background: #0d0d0d;
+  border-right: 1px solid #2d2d2d;
+}
+
+/* Sidebar links */
+.site-button {
+  color: var(--gold-light);
+}
+
+/* Search */
+.search-input {
+  background: #181818;
+  color: var(--text);
+  border: 1px solid #333;
+}
+
+/* Horizontal lines */
+hr {
+  border-color: #333;
+}
+
+/* Blockquotes */
+blockquote {
+  border-left: 3px solid var(--gold);
+  color: #c8c8c8;
+  font-family: Georgia, "Times New Roman", serif;
+  font-style: italic;
+}
+
+/* Text */
+p, li {
+  color: var(--text);
+}
+
+/* Gold emphasis */
+strong {
+  color: var(--gold-light);
+}
+
+/* Code */
+code {
+  background: #1c1c1c;
+  color: var(--gold-light);
+}
