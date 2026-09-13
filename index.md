@@ -15,7 +15,7 @@ This is an independent research project dedicated to studying philosophers, scie
 
 ## Featured Thinkers
 
-- Niccolo Machaivelli
+- Niccolò Machiavelli
 - Marcus Aurelius
 - Plato
 - Aristotle
